@@ -1,2 +1,2 @@
 # Medical-Store-Mangement-System
-the first year project with C++ language
+The first year project with C++ language
